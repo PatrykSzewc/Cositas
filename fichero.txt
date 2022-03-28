@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 hgdk
 ieurrg
 luyr
-=======
-oiioyioyioiyoiyoyiieurrg
->>>>>>> pipipopo
+
